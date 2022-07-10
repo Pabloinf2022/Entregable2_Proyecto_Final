@@ -147,7 +147,7 @@ a {
 	font-size: 1.25em; 
 	line-height: 1.56em; 
 	font-weight: 300;
-	margin-bottom: 2.25em; 
+	margin-bottom: 1em; 
 	color: #868b8d;
 }
 
@@ -217,7 +217,7 @@ a {
 	grid-area: contenido;
 	display: grid;
 	grid-template-columns: 48em;
-	grid-gap: 0.312empx; 
+	grid-gap: 0.312em; 
 }
 
 /*---------- SIDEBAR ----------*/
